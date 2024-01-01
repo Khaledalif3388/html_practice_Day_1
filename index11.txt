@@ -1,0 +1,28 @@
+1. html-> what(website a ki ki  content thakbe, strcture define kore,skeleton define kore) 
+    1. <head>->metadata,seo,title related data thakbe....metadata bolte website search korle logo r niche j description,title,keywords,copyrightt,authors show korano k bujhai..r ei purota k seo bole..stylesheet link korle ta ekhane define kore..
+    2. Difference between tag and element, ekta tag -> "<html>"content"</html>" purota combine korle take element bole.
+    3. <body>-> webpage a ja display korate chai...article,paragraph,div tag etc..labeling element add korte...
+    4. Tags: semantics-> <h1>,<p>,<a>,<ul>,<table>,<img>,<form>,<input>
+        Structure-> html, head, body, <header>, <main>,<aside>,<footer>,<article>,<section>,<nav> 
+            formatting-><b>,<i>,<u>,<s>,<strong>,<em>,<sup>,<sub>,<pre>,<code>
+    shortcuts:     table>(tr>td*3)*3, 
+    -> What is attributes in html?
+    HTML attributes are used to provide additional information about HTML elements. They allow you to modify the behavior or appearance of an element. Attributes are specified within the opening tag of an HTML element and consist of a name-value pair. The name represents the attribute, while the value provides specific information or instructions for that attribute.
+
+    For example, you can use attributes to set the source of an image, define the target of a link, specify the dimensions of an element, or assign a class or ID for styling or JavaScript manipulation. Attributes can vary depending on the type of element they are used with.
+
+    Some commonly used attributes include:
+    - `src` for specifying the source of an image or media file
+    - `href` for defining the target URL of a link
+    - `class` for assigning a CSS class to an element
+    - `id` for uniquely identifying an element
+    - `style` for inline CSS styling
+    - `alt` for providing alternative text for an image
+
+    5. Difference between semantics, structure and formatting tag?
+
+
+
+2. css -> styling purpose a use kora hoi...
+3. resource: resource bolte documentaiton porar ovvash kore hobe...website: mdn,w3school...
+4. js: website a functionality add korte...
